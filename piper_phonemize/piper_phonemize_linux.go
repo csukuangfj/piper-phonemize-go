@@ -15,6 +15,6 @@ import (
 
 type PhonemizeResult = pp.PhonemizeResult
 var GetVersionStr = pp.GetVersionStr
-var Initialize = pp.Initialize
+var _platformInitialize = pp.Initialize
 var Phonemize = pp.Phonemize
 var DeletePhonemizeResult = pp.DeletePhonemizeResult
