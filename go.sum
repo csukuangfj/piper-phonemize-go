@@ -1,6 +1,6 @@
-github.com/csukuangfj/piper-phonemize-go-linux v1.4.8 h1:WszuA1gF3LZZvEBw1k6W2tp2tQNiwxQh/9ObKC5qszs=
-github.com/csukuangfj/piper-phonemize-go-linux v1.4.8/go.mod h1:wNyq6v0OOG9pSpTBXaKH+G/5tnGYsrmEJyMOv42yGMk=
-github.com/csukuangfj/piper-phonemize-go-macos v1.4.8 h1:ff2WFzbtv0zXV4YgEfobPLzMJywQVY7rcj6eyG3E+HE=
-github.com/csukuangfj/piper-phonemize-go-macos v1.4.8/go.mod h1:75grp1hJDR4YciTMIoMxXEAdN/QPjGg5lL1D1mZJXDM=
-github.com/csukuangfj/piper-phonemize-go-windows v1.4.8 h1:nqCnRjSIwfGf1VSgbdnaL+AzjTBKWCpCZOlqckY9+l0=
-github.com/csukuangfj/piper-phonemize-go-windows v1.4.8/go.mod h1:JsHJJc4sYbZ/9Bh8OYem7y7nVEsimjO4jzKTGTBl/gc=
+github.com/csukuangfj/piper-phonemize-go-linux v1.4.9 h1:QB3fYySy+7KTNRYKWqsWJo1Zrz4B2UOMAkyEcjcz4cI=
+github.com/csukuangfj/piper-phonemize-go-linux v1.4.9/go.mod h1:wNyq6v0OOG9pSpTBXaKH+G/5tnGYsrmEJyMOv42yGMk=
+github.com/csukuangfj/piper-phonemize-go-macos v1.4.9 h1:q80FXq84mgMW8jR1lIBn8riGD3/R6QQwS0MkQf91iZM=
+github.com/csukuangfj/piper-phonemize-go-macos v1.4.9/go.mod h1:75grp1hJDR4YciTMIoMxXEAdN/QPjGg5lL1D1mZJXDM=
+github.com/csukuangfj/piper-phonemize-go-windows v1.4.9 h1:fogadZDdbViQnjeaP58tzZZh2wsJdif57TEa3o79yzk=
+github.com/csukuangfj/piper-phonemize-go-windows v1.4.9/go.mod h1:JsHJJc4sYbZ/9Bh8OYem7y7nVEsimjO4jzKTGTBl/gc=
